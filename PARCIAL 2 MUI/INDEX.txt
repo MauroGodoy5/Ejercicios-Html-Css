@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="contacto">
+            
+            <a id="cont"  href=""><img src="imagenes/llamada-telefonica.png" alt="" width="20" height="20">(0351)4256987</a>
+            <a id="cont" href=""><img  src="imagenes/nuevo-simbolo-de-sobre-negro-de-correo-electronico-de-interfaz.png" alt="" width="20" height="20">info@compras.com.ar</a>
+    
+
+    
+        <img id="redes" src="imagenes/facebook.png" alt="" width="20" height="20">
+        <img id="redes" src="imagenes/twitter-forma-negra.png" alt="" width="20" height="20">
+        <img id="redes" src="imagenes/linkedin.png" alt="" width="20" height="20">
+        <img id="redes" src="imagenes/circulo-de-tierra-negra-con-rejilla-delgada.png" alt="" width="20" height="20">
+        <img id="redes" src="imagenes/google-plus.png" alt="" width="20" height="20">
+    
+    </div>
+    </header>
+    <div class="menu">
+    <ul>
+        <a href=""><li>Compras</li></a>
+        <a href=""><li>Ventas</li></a>
+        <a href=""><li>Resumen</li></a>
+        <a href=""><li>Comprados</li></a>
+        <a href=""><li>Ingresar</li></a>
+    </ul>
+    </div>
+    
+
+    <div class="submenu">
+        <h1>ARTICULOS</h1>
+        <ul> CATEGORIAS
+            <a href=""><li>Deportes</li></a>
+            <a href=""><li>Hombres</li></a>
+            <a href=""><li>Womens</li></a>
+            <a href=""><li>Niños</li></a>
+            <a href=""><li>Moda</li></a>
+            <a href=""><li>Hogar</li></a>
+            <a href=""><li>Interiores</li></a>
+            <a href=""><li>Mujer</li></a>
+            <a href=""><li>Carteras</li></a>
+            <a href=""><li>Zapatos</li></a>
+        </ul>
+    </div>
+
+    <div class="submenu2">
+        <br>
+        <ul> MARCAS
+            <a href=""><li>Nike</li></a>
+            <a href=""><li>Adidas</li></a>
+            <a href=""><li>Sarkany</li></a>
+            <a href=""><li>Cuesta blanca</li></a>
+            <a href=""><li>Puma</li></a>
+            <a href=""><li>Dior</li></a>
+            <a href=""><li>Lola Roca</li></a>
+        </ul>
+    </div>
+
+    <div class="submenu3">
+        <br>
+        <ul> RANGO DE PRECIO
+            <input type="range" min="0" max="3600">
+        </ul>
+    </div>
+    
+        <div class="content">
+    <div class="contenedor1">
+        <a href="#">
+            <figure>
+                <img src="imagenes/product1.jpg">
+                <div class="capa">
+                    <h3>Campera de lana</h3>
+                    <h4>$1000</h4>
+                    <p>Añadir al carro</p>
+                </div>
+            </figure>
+        </a>
+        <a href="#">
+            <figure>
+                <img src="imagenes/product2.jpg">
+                <div class="capa">
+                    <h3>Chomba Nike</h3>
+                    <h4>$4000</h4>
+                    <p>Añadir al carro</p>
+                </div>
+            </figure>
+        </a>
+        <a href="#">
+            <figure>
+                <img src="imagenes/product3.jpg">
+                <div class="capa">
+                    <h3>$Vestido</h3>
+                    <h4>$5000</h4>
+                    <p>Añadir al carro</p>
+                </div>
+            </figure>
+        </a>
+    </div>
+
+    <div class="contenedor2">
+        <figure>
+            <img src="imagenes/product4.jpg">
+            <div class="capa">
+                <h3>Cartera</h3>
+                <h4>$10000</h4>
+                <p>Añadir al carro</p>
+            </div>
+        </figure>
+    </a>
+    <a href="#">
+        <figure>
+            <img src="imagenes/product5.jpg">
+            <div class="capa">
+                <h3>sueter Adidas</h3>
+                <h4>$6000</h4>
+                <p>Añadir al carro</p>
+            </div>
+        </figure>
+    </a>
+    <a href="#">
+        <figure>
+            <img src="imagenes/product6.jpg">
+            <div class="capa">
+                <h3>Remera Lisa</h3>
+                <h4>$2500</h4>
+                <p>Añadir al carro</p>
+            </div>
+        </figure>
+    </a>
+    </div>
+        <div class="mini">
+            <h1>MAS PRODUCTOS</h1>
+        </div>  
+    <div class="contenedor3">
+        <a href="#">
+            <figure>
+                <h2>REMERAS</h2>
+                <img src="imagenes/gallery1.jpg">
+                <div class="capa">
+                    <h3>VER MAS</h3>
+                    <p>"Click aqui"</p>
+                </div>
+            </figure>
+        </a>
+       
+
+    <a href="#">
+        <figure>
+            <h2>REMERAS</h2>
+            <img src="imagenes/gallery2.jpg">
+            <div class="capa">
+                <h3>VER MAS</h3>
+                <p>"Click aqui"</p>
+            </div>
+        </figure>
+    </a>
+
+    <a href="#">
+        <figure>
+            <h2>ACCESORIOS</h2>
+            <img src="imagenes/aros.jpg">
+            <H1></H1>
+            <div class="capa">
+                <h3>VER MAS</h3>
+                <p>"Click aqui"</p>
+            </div>
+        </figure>
+    </a>
+    </div>
+</div>
+
+<footer>
+    <div class="contenedorf">
+    <div class="servicios">
+        <h3>SERVICIOS</h3>
+        <br>
+        <ul> 
+            <a href=""><li>Ayuda Online</li></a>
+            <a href=""><li>Contacto</li></a>
+            <a href=""><li>Resumen de Compras</li></a>
+            <a href=""><li>Personalizar cuenta</li></a>
+            <a href=""><li>FAQ's</li></a>
+        </ul>
+    </div>
+    <div class="categorias">
+        <h3>CATEGORIAS</h3>
+        <br>
+        <ul>
+            <a href=""><li>Hombres</li></a>
+            <a href=""><li>Mujer</li></a>
+            <a href=""><li>Moda</li></a>
+            <a href=""><li>Regalos</li></a>
+            <a href=""><li>Zapatos</li></a>
+        </ul>
+    </div>
+    <div class="politicas">
+        <h3>POLITICAS</h3>
+        <br>
+        <ul> 
+            <a href=""><li>Terminos y Condiciones</li></a>
+            <a href=""><li>Politica Privada</li></a>
+            <a href=""><li>Sistema de Pago</li></a>
+        </ul>
+    </div>
+    <div class="nosotros">
+        <h3>NOSOTROS</h3>
+        <br>
+        <ul> 
+            <a href=""><li>Quienes Somos</li></a>
+            <a href=""><li>Carrers</li></a>
+            <a href=""><li>Sucursales</li></a>
+            <a href=""><li>Proveedores</li></a>
+        </ul>
+    </div>
+</div>
+</footer>
+</body>
+</html>
